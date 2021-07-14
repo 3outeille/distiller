@@ -20,6 +20,7 @@ This implements the scheduling of the compression policies.
 """
 from functools import partial
 import logging
+from loguru import logger
 import torch
 
 msglogger = logging.getLogger()

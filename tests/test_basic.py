@@ -25,3 +25,5 @@ def test_sparsity():
     ones = torch.zeros(12,43,4,6)
     ones.fill_(1)
     assert distiller.sparsity(ones) == 0.0
+
+test_sparsity()

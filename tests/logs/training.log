@@ -1,0 +1,63 @@
+2021-07-14 11:15:49.408 | INFO     | __main__:main:25 - cuda:1
+2021-07-14 11:15:49.409 | INFO     | __main__:main:29 - Load dataset ...
+2021-07-14 11:15:51.430 | INFO     | __main__:main:31 - train_loader: 45000 samples
+2021-07-14 11:15:51.430 | INFO     | __main__:main:32 - val_loader: 5000 samples
+2021-07-14 11:15:51.430 | INFO     | __main__:main:33 - test_loader: 10000 samples
+2021-07-14 11:15:51.431 | INFO     | __main__:main:35 - Create model ...
+2021-07-14 11:15:54.421 | INFO     | __main__:main:41 - Train model ...
+2021-07-14 11:15:57.627 | INFO     | __main__:train:98 - Epoch: 001 Train Loss: 1.825 | Train Acc: 0.329
+2021-07-14 11:16:00.709 | INFO     | __main__:train:98 - Epoch: 002 Train Loss: 1.583 | Train Acc: 0.422
+2021-07-14 11:16:03.684 | INFO     | __main__:train:98 - Epoch: 003 Train Loss: 1.497 | Train Acc: 0.455
+2021-07-14 11:16:06.843 | INFO     | __main__:train:98 - Epoch: 004 Train Loss: 1.428 | Train Acc: 0.487
+2021-07-14 11:16:09.906 | INFO     | __main__:train:98 - Epoch: 005 Train Loss: 1.365 | Train Acc: 0.510
+2021-07-14 11:16:12.902 | INFO     | __main__:train:98 - Epoch: 006 Train Loss: 1.316 | Train Acc: 0.528
+2021-07-14 11:16:16.042 | INFO     | __main__:train:98 - Epoch: 007 Train Loss: 1.286 | Train Acc: 0.540
+2021-07-14 11:16:19.101 | INFO     | __main__:train:98 - Epoch: 008 Train Loss: 1.251 | Train Acc: 0.553
+2021-07-14 11:16:22.180 | INFO     | __main__:train:98 - Epoch: 009 Train Loss: 1.221 | Train Acc: 0.564
+2021-07-14 11:16:25.243 | INFO     | __main__:train:98 - Epoch: 010 Train Loss: 1.201 | Train Acc: 0.568
+2021-07-14 11:16:28.361 | INFO     | __main__:train:98 - Epoch: 011 Train Loss: 1.188 | Train Acc: 0.572
+2021-07-14 11:16:31.562 | INFO     | __main__:train:98 - Epoch: 012 Train Loss: 1.180 | Train Acc: 0.580
+2021-07-14 11:16:34.794 | INFO     | __main__:train:98 - Epoch: 013 Train Loss: 1.161 | Train Acc: 0.586
+2021-07-14 11:16:37.923 | INFO     | __main__:train:98 - Epoch: 014 Train Loss: 1.138 | Train Acc: 0.594
+2021-07-14 11:16:40.978 | INFO     | __main__:train:98 - Epoch: 015 Train Loss: 1.127 | Train Acc: 0.597
+2021-07-14 11:16:44.115 | INFO     | __main__:train:98 - Epoch: 016 Train Loss: 1.118 | Train Acc: 0.601
+2021-07-14 11:16:46.966 | INFO     | __main__:train:98 - Epoch: 017 Train Loss: 1.111 | Train Acc: 0.606
+2021-07-14 11:16:50.204 | INFO     | __main__:train:98 - Epoch: 018 Train Loss: 1.091 | Train Acc: 0.612
+2021-07-14 11:16:53.131 | INFO     | __main__:train:98 - Epoch: 019 Train Loss: 1.085 | Train Acc: 0.615
+2021-07-14 11:16:56.081 | INFO     | __main__:train:98 - Epoch: 020 Train Loss: 1.080 | Train Acc: 0.616
+2021-07-14 11:16:59.196 | INFO     | __main__:train:98 - Epoch: 021 Train Loss: 1.070 | Train Acc: 0.621
+2021-07-14 11:17:02.358 | INFO     | __main__:train:98 - Epoch: 022 Train Loss: 1.065 | Train Acc: 0.620
+2021-07-14 11:17:05.326 | INFO     | __main__:train:98 - Epoch: 023 Train Loss: 1.051 | Train Acc: 0.629
+2021-07-14 11:17:08.368 | INFO     | __main__:train:98 - Epoch: 024 Train Loss: 1.050 | Train Acc: 0.626
+2021-07-14 11:17:11.489 | INFO     | __main__:train:98 - Epoch: 025 Train Loss: 1.045 | Train Acc: 0.628
+2021-07-14 11:17:14.365 | INFO     | __main__:train:98 - Epoch: 026 Train Loss: 1.034 | Train Acc: 0.631
+2021-07-14 11:17:17.388 | INFO     | __main__:train:98 - Epoch: 027 Train Loss: 1.024 | Train Acc: 0.635
+2021-07-14 11:17:20.426 | INFO     | __main__:train:98 - Epoch: 028 Train Loss: 1.016 | Train Acc: 0.639
+2021-07-14 11:17:23.410 | INFO     | __main__:train:98 - Epoch: 029 Train Loss: 1.013 | Train Acc: 0.640
+2021-07-14 11:17:26.474 | INFO     | __main__:train:98 - Epoch: 030 Train Loss: 1.012 | Train Acc: 0.642
+2021-07-14 11:17:29.534 | INFO     | __main__:train:98 - Epoch: 031 Train Loss: 1.007 | Train Acc: 0.642
+2021-07-14 11:17:32.520 | INFO     | __main__:train:98 - Epoch: 032 Train Loss: 0.992 | Train Acc: 0.648
+2021-07-14 11:17:35.679 | INFO     | __main__:train:98 - Epoch: 033 Train Loss: 0.990 | Train Acc: 0.649
+2021-07-14 11:17:38.672 | INFO     | __main__:train:98 - Epoch: 034 Train Loss: 0.986 | Train Acc: 0.649
+2021-07-14 11:17:41.754 | INFO     | __main__:train:98 - Epoch: 035 Train Loss: 0.984 | Train Acc: 0.650
+2021-07-14 11:17:44.774 | INFO     | __main__:train:98 - Epoch: 036 Train Loss: 0.981 | Train Acc: 0.653
+2021-07-14 11:17:47.822 | INFO     | __main__:train:98 - Epoch: 037 Train Loss: 0.974 | Train Acc: 0.654
+2021-07-14 11:17:50.755 | INFO     | __main__:train:98 - Epoch: 038 Train Loss: 0.968 | Train Acc: 0.655
+2021-07-14 11:17:53.600 | INFO     | __main__:train:98 - Epoch: 039 Train Loss: 0.964 | Train Acc: 0.659
+2021-07-14 11:17:56.747 | INFO     | __main__:train:98 - Epoch: 040 Train Loss: 0.964 | Train Acc: 0.656
+2021-07-14 11:17:59.769 | INFO     | __main__:train:98 - Epoch: 041 Train Loss: 0.953 | Train Acc: 0.661
+2021-07-14 11:18:02.621 | INFO     | __main__:train:98 - Epoch: 042 Train Loss: 0.959 | Train Acc: 0.661
+2021-07-14 11:18:05.628 | INFO     | __main__:train:98 - Epoch: 043 Train Loss: 0.943 | Train Acc: 0.664
+2021-07-14 11:18:08.718 | INFO     | __main__:train:98 - Epoch: 044 Train Loss: 0.941 | Train Acc: 0.665
+2021-07-14 11:18:11.737 | INFO     | __main__:train:98 - Epoch: 045 Train Loss: 0.940 | Train Acc: 0.663
+2021-07-14 11:18:14.914 | INFO     | __main__:train:98 - Epoch: 046 Train Loss: 0.936 | Train Acc: 0.668
+2021-07-14 11:18:17.880 | INFO     | __main__:train:98 - Epoch: 047 Train Loss: 0.931 | Train Acc: 0.671
+2021-07-14 11:18:21.053 | INFO     | __main__:train:98 - Epoch: 048 Train Loss: 0.934 | Train Acc: 0.670
+2021-07-14 11:18:23.827 | INFO     | __main__:train:98 - Epoch: 049 Train Loss: 0.928 | Train Acc: 0.670
+2021-07-14 11:18:26.837 | INFO     | __main__:train:98 - Epoch: 050 Train Loss: 0.921 | Train Acc: 0.673
+2021-07-14 11:18:26.838 | INFO     | __main__:main:44 - Evaluate model ...
+2021-07-14 11:18:27.585 | INFO     | __main__:main:46 - Val loss: 0.987 | Val acc: 0.647
+2021-07-14 11:18:27.586 | INFO     | __main__:main:48 - Save model ...
+2021-07-14 11:18:27.596 | INFO     | __main__:main:51 - Load model ...
+2021-07-14 11:18:27.608 | INFO     | __main__:main:56 - Evaluate loaded model ...
+2021-07-14 11:18:28.312 | INFO     | __main__:main:59 - Val loss: 0.979 | Val acc: 0.654
